@@ -35,5 +35,17 @@
         "statements": -10
       }
     }
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stranger2626/jest-unit-testing-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stranger2626/jest-unit-testing-example/issues"
+  },
+  "homepage": "https://github.com/stranger2626/jest-unit-testing-example#readme"
 }
